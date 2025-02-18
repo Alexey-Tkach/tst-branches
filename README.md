@@ -1,4 +1,4 @@
 # Main changes
 
-## Develop changes made in develop
+## Develop changes
 ## Other develop changes
