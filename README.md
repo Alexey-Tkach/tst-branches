@@ -1,7 +1,7 @@
 # Main changes
 
-## Develop changes made in develo brabch
-## Other develop changes made by me
+## Develop changes
+## Other develop changes
 
 ### Feature changes 123
 
