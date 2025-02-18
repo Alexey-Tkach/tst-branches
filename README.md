@@ -5,6 +5,6 @@
 
 ### Feature changes 123
 
-### Other feature 321 123
+### Other feature 321
 
 ### One more feature changes 213
