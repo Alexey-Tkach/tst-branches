@@ -3,7 +3,7 @@
 ## Develop change
 ## Other develop changes
 
-### Feature changes 123 (fixed bug)
+### Feature changes 123
 
 ### Other feature 321 (do not edit for now)
 
